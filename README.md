@@ -4,6 +4,8 @@ Kortspillet President
 ## Kjør
 
     python president.py
+    
+Skriv numrene på kortene som skal spilles ut separert av mellomrom. p for pass.
 
 ## Regler
 

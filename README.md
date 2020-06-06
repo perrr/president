@@ -28,3 +28,4 @@ Vinneren (presidenten) er den som kvitter seg med kortene først, så følger vi
 * Smartere datastyrte spillere
 * Hjerter tre åpner spillet, i stedet for en tilfeldig spiller
 * Navn på egen spiller, eller forutsigbart spillernummer, så det er enklere å følge med på hvem man er
+* Spillet er slutt når nest siste spiller er ferdig, ikke siste
